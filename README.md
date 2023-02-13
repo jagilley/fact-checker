@@ -39,3 +39,8 @@ The biggest eggs laid by any mammal belong to the elephant.
 
 **New answer:**
 This question cannot be answered because elephants do not lay eggs and most mammals give birth to live young.
+
+## credits
+Proof of concept by [Jasper](https://twitter.com/0xjasper)
+
+Huge thanks to @hwchase17 and the langchain project!
