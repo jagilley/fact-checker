@@ -1,6 +1,6 @@
 # fact checking with prompt chaining
 
-This repo is a simple demonstration of using [langchain](https://github.com/hwchase17/langchain) to do fact-checking with prompt chaining. How it works:
+This repo is a simple demonstration of doing fact-checking with prompt chaining. How it works:
 - you ask your desired LLM a question
 - the LLM generates an initial answer to the question
 - the LLM self-interrogates what the assumptions were that went into that answer
@@ -9,7 +9,7 @@ This repo is a simple demonstration of using [langchain](https://github.com/hwch
 
 ## to run
 
-Make sure you have langchain installed (`pip install langchain`). Then run
+Run
 
 `python3 fact_checker.py 'insert question here'`
 
@@ -42,5 +42,3 @@ This question cannot be answered because elephants do not lay eggs and most mamm
 
 ## credits
 Proof of concept by [Jasper](https://twitter.com/0xjasper)
-
-Huge thanks to @hwchase17 and the langchain project!
